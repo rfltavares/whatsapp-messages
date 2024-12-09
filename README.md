@@ -29,9 +29,6 @@ Note: If you wish to send an image instead of text you can write attachment sele
 
 ## Code
 ```
-# Program to send bulk messages through WhatsApp web from an excel sheet without saving contact numbers
-# Author @inforkgodara
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
